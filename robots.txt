@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://johanrhodin.github.io/sitemap.xml 
