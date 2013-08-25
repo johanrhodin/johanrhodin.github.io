@@ -5,7 +5,7 @@ date: 2013-08-25 12:09
 comments: true
 categories: [Modelica, Vim]
 ---
-Setting up syntax highlighting for Modelica something I do when I switch computers. So not all that often, but it happens. And everytime there's something I forget to do, so here's something to remind myself.
+Setting up syntax highlighting for Modelica is something I do when I switch computers. So not all that often, but it happens. And everytime there's something I forget to do, so here's something to remind myself.
 
 ### Steps to set it up
 
