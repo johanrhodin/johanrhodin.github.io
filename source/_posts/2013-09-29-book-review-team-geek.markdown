@@ -4,7 +4,6 @@ title: "Book recommendation: Team Geek"
 date: 2013-09-29 12:21
 comments: true
 categories: Books
-published: false
 ---
 I just finished "Teem Geek, A Software Developer's Guide to Working Well with Others" by Brian W. Fitzpatrick and Ben Collins-Sussman.
 It's a short read, about 160 pages, and it's spiced up with a lot of pictures, quotes and stories from the front lines of (software) engineering, which makes for an easy read.
